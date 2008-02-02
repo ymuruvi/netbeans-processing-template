@@ -1,0 +1,12 @@
+#summary How to install the plugin.
+
+= Steps =
+
+  # Download the latest plugin from the [http://code.google.com/p/netbeans-processing-template/downloads/list Downloads page]
+  # Open Netbeans
+  # Go to Tools > Plugins
+  # Click the "Downloaded" tab
+  # Click the "Add Plugins..." button
+  # Select the plugin that you downloaded in step (1)
+  # Select that plugin in the pane on the left, and click the "Install" button below
+  # Done!
