@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.1//EN" "http://www.netbeans.org/dtds/filesystem-1_1.dtd">
+<filesystem>
+    <folder name="Templates">
+        <folder name="Project">
+            <folder name="Standard">
+                <file name="ProcessingSketchProject.zip" url="ProcessingSketchProject.zip">
+                    <attr name="SystemFileSystem.localizingBundle" stringvalue="com.masonsimon.processingtemplate.Bundle"/>
+                    <attr name="instantiatingIterator" methodvalue="com.masonsimon.processingtemplate.ProcessingSketchWizardIterator.createIterator"/>
+                    <attr name="instantiatingWizardURL" urlvalue="nbresloc:/com/masonsimon/processingtemplate/ProcessingSketchDescription.html"/>
+                    <attr name="template" boolvalue="true"/>
+                </file>
+            </folder>
+        </folder>
+    </folder>
+    <folder name="org-netbeans-api-project-libraries">
+        <folder name="Libraries">
+            <file name="Processing.xml" url="Processing.xml"/>
+        </folder>
+    </folder>
+</filesystem>

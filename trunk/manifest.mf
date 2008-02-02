@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: com.masonsimon.processingtemplate
+OpenIDE-Module-Layer: com/masonsimon/processingtemplate/layer.xml
+OpenIDE-Module-Localizing-Bundle: com/masonsimon/processingtemplate/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
